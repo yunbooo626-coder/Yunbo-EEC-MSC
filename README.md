@@ -1,6 +1,5 @@
 # Yunbo-EEC-MSC
 Spatiotemporal Dynamics and Drivers of Terrestrial Gross Primary Productivity in China
-# China-GPP-Pmodel
 
 This repository contains the code used in my MSc dissertation to estimate and analyse terrestrial GPP in China.
 
