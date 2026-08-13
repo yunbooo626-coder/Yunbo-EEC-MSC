@@ -12,6 +12,10 @@ This repository contains the complete code developed and used throughout my MSc 
 
 The datasets used in this study were obtained from publicly available sources and are not included in this repository due to file size and data access considerations.
 
+## Software and Environment
+
+The code was developed and edited using Jupyter Notebook with Python 3.11.15. The main Python packages used in this study include Cartopy, GeoPandas, Matplotlib, netCDF4, NumPy, pandas, pymannkendall, pyrealm, Rasterio, rioxarray, scikit-learn, SciPy, seaborn, Shapely, statsmodels, and xarray.
+
 ## Author
 
 Yunbo ZHAO  
